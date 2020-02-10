@@ -4,6 +4,17 @@
 
 [1]: https://www.npmjs.com/package/dialogflow?activeTab=versions
 
+## [2.0.0](https://www.github.com/googleapis/nodejs-dialogflow/compare/v1.2.0...v2.0.0) (2020-02-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* move API to typescript code generation (#523)
+
+### Features
+
+* move API to typescript code generation ([#523](https://www.github.com/googleapis/nodejs-dialogflow/issues/523)) ([19793a5](https://www.github.com/googleapis/nodejs-dialogflow/commit/19793a57250f22c9ea7ebde1d4553cbc5c93253c))
+
 ## [1.2.0](https://www.github.com/googleapis/nodejs-dialogflow/compare/v1.1.2...v1.2.0) (2020-02-07)
 
 
